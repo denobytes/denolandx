@@ -1,4 +1,5 @@
-# denolandx
+
+[![Latest version](https://deno.land/badge/denolandx/version)](https://deno.land/x/denolandx)
 
 **denolandx** is a cli tool for finding more info on deno.land/x modules
 
