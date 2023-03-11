@@ -1,4 +1,6 @@
-# denolandx - a cli tool for finding more info with deno.land/x modules
+# denolandx
+
+**denolandx** is a cli tool for finding more info on deno.land/x modules
 
 ## usage
 
