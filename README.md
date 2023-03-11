@@ -1,6 +1,6 @@
-# denolandx - a cli tool for finding more info on with deno.land/x modules
+# denolandx - a cli tool for finding more info with deno.land/x modules
 
-## demo
+## usage
 
 to run:
 
@@ -8,7 +8,7 @@ to run:
 deno run --allow-net 'https://deno.land/x/denolandx/cli.ts' <module name>
 ```
 
-example run:
+example:
 
 ```
 deno run --allow-net 'https://deno.land/x/denolandx/cli.ts' deno
