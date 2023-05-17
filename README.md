@@ -22,6 +22,14 @@ deno
 ...
 ```
 
+## install
+
+Requires [deno](https://deno.land/manual/getting_started/installation)
+
+```
+deno install -n denolandx --allow-net https://deno.land/x/denolandx/cli.ts
+```
+
 ## license
 
 Copyright 2023 **denobytes**.\
