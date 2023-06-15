@@ -14,7 +14,7 @@ deno run --allow-net 'https://deno.land/x/denolandx/cli.ts' <module name>
 example:
 
 ```
-deno run --allow-net 'https://deno.land/x/denolandx/cli.ts' deno
+deno run --allow-net=deno.land 'https://deno.land/x/denolandx/cli.ts' deno
 -------------------
 deno
         A modern runtime for JavaScript and TypeScript.
